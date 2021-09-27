@@ -1,4 +1,4 @@
-👋 Hi, I’m @louiscollinsjr, and I have a 🍫 addiction.
+👋 Hi, I’m @louiscollinsjr, and I have a 🍫 addiction. housekeeping time, builing out the github repo.
 
 
 <!---
